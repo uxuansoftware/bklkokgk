@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.zhoujun.gay</id>
+    <title>玩发卡</title>
+    <updated>2023-10-29T01:38:57.618Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.zhoujun.gay"/>
+    <link rel="self" href="https://www.zhoujun.gay/atom.xml"/>
+    <subtitle>玩发卡专注于发卡网，分享优质发卡网站源码、教程、技巧等！</subtitle>
+    <logo>https://www.zhoujun.gay/images/avatar.png</logo>
+    <icon>https://www.zhoujun.gay/favicon.ico</icon>
+    <rights>All rights reserved 2023, 玩发卡</rights>
+    <entry>
+        <title type="html"><![CDATA[🔔免费开源发卡网源码]]></title>
+        <id>https://www.zhoujun.gay/faka/</id>
+        <link href="https://www.zhoujun.gay/faka/">
+        </link>
+        <updated>2023-10-10T03:17:29.000Z</updated>
+    </entry>
+</feed>
